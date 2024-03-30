@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 body{
-  background-color: #fbf2f3;
-  font-family: 'Poppins', sans-serif;
-
+  background-color: white;
 }
+
+
 .box-top {
   --mask:
     radial-gradient(13.79px at 50% calc(100% - 19.5px),#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
